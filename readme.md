@@ -39,7 +39,7 @@ YourProject/Plugins/GeminiImageGenerator/
 
 2. **Project Settings → Gemini Image Generator**에서  
 Gemini API Key를 입력합니다.
-[![alt text](images/settings.png)](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/settings.png?raw=true)
+![alt text](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/setting.png?raw=true)
 
 ---
 
@@ -47,7 +47,7 @@ Gemini API Key를 입력합니다.
 
 1. 에디터 메뉴에서  
 **Window → Gemini Image Generator** 실행  
-[![alt text](images/toolbar.png)](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/toolbar.png?raw=true)
+![alt text](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/toolbar.png?raw=true)
 1. 프롬프트 입력  
 2. 비율 선택 (예: 1:1 / 16:9 / 21:9 등)  
 3. “이미지 생성” 클릭  
@@ -104,6 +104,6 @@ This plugin is distributed under the MIT License.
 
 ## 🌌 Preview
 
-[![alt text](images/preview.png)](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/preview.png?raw=true)
+![alt text](https://github.com/online5880/Unreal-Gemini-Image-Generator/blob/main/Images/preview.png?raw=true)
 
 ---
